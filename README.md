@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Ben, a Master's student at University of Colorado, Colorado Springs.
+
+I enjoy working on backend projects with object-oriented languages such as C++ and Python.
+
+I'm currently working to improve my frontend and web development skills, and am learning Javascript. 
 <!--
 **BenDaHen/BenDaHen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
